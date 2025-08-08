@@ -1,6 +1,6 @@
 <?php
 
-namespace CodelyTv\Criteria\Eloquent\Tests\Models;
+namespace Tests\MarioDevv\Criteria\Eloquent\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
